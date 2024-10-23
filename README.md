@@ -18,12 +18,15 @@ Este projeto é uma aplicação web simples em Flask que gera QR Codes para paga
 - crcmod
 
 ## Estrutura do Projeto:
+
+```ph
 .
 ├── pixqrcode.py                # Arquivo principal da aplicação
 ├── static                # Diretório para arquivos estáticos
 │   └── qrcodes           # Diretório para armazenar os QR Codes gerados
 └── templates             # Diretório para templates HTML
     └── qrcode.html       # Template para exibir o QR Code
+```
 
 ## Pré-requisitos
 
